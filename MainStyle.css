@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background-color: black;
+}
+
+.navbar div {
+  display: inline-block;
+  padding: 10px;
+}
+
+.navbar div a {
+  font-size: 20px;
+  text-decoration: none;
+  color: #777;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+/*# sourceMappingURL=MainStyle.css.map */
